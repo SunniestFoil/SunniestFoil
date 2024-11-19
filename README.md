@@ -1,4 +1,4 @@
-Olá, eu sou jocinei tenho 17 anos nasci em Foz do Iguaçu e Estudo no Colegio Ayrton Senna da Silva e estou no 3°B
+Apenas um criador de otimizações
 
 <!---
 SunniestFoil/SunniestFoil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
